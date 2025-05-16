@@ -1,4 +1,4 @@
-# bhargav-chaudhari
+# Bhargav Chaudhari
 
 > between silence and syntax, I build.
 
