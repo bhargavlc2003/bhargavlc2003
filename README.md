@@ -4,16 +4,14 @@
 
 ---
 
-I don’t chase trends. I study systems.  
 I care about the *why* more than the *what* — until the *what* is production-ready.
 
 ---
 
 ## current state
 
-- 📍 Based in Pune
-- 🎓 Studying Computer Science 
-- 🔍 Exploring new things Everyday
+- Studying Computer Science 
+- Exploring new things Everyday
 
 
 I don’t do “reach out for anything.”  
