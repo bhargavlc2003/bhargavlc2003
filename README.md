@@ -4,7 +4,7 @@
 
 ---
 
-I care about the *why* more than the *what* — until the *what* is production-ready.
+I care about the *why* more than the *what* until the *what* is production-ready.
 
 ---
 
